@@ -2,7 +2,7 @@
 
 ## Author
 
-Diego Díaz Morón
+Diego Díaz Morón  
 Pablo Pérez González
 
 ## Project Description
